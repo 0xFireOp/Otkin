@@ -37,6 +37,4 @@ Oui, **les caractères**. Pas les vulnérabilités. Pas le serveur. Pas le sens 
 
 ## ⚠️ Avertissement
 
-Otkin est tellement puissant qu’il inverse chaque ligne de sortie — une prouesse technologique rendue possible par `rev`. 🧙
-
-À utiliser uniquement sur des systèmes pour lesquels vous avez une autorisation de test. 🛡️
+Otkin est tellement puissant qu'il est à utiliser uniquement sur des systèmes pour lesquels vous avez une autorisation de test. 🛡️
